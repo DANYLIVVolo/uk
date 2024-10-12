@@ -1,0 +1,32 @@
+header img{
+    width:200px ;
+    height:200px ;
+}
+header h1{
+    text-align: center;
+    color: rgb(243, 174, 1);
+    font-size:40px;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color: rgba(184, 135, 11, 0.835);
+    font-size: 20px;
+    margin:10px;
+}
+img {
+    
+    height:300px ;
+}
+h2{
+    text-align: center;
+}
+footer img{
+width:50px;
+height:50px;
+}
+p{ text-align: center}
+    
+
